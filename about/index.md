@@ -4,7 +4,7 @@ layout: page
 comments: yes
 ---
   
-liuhuanting(lzdanergg), 毕业于SWUST.      
+Liuhuanting(lzdanergg), 毕业于SWUST.      
 喜欢程序语言设计及大数据分析.      
 目前从事开发相关工作.      
 
